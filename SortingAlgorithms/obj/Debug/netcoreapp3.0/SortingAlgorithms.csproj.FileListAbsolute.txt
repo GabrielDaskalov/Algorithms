@@ -1,0 +1,22 @@
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.exe
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.deps.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.pdb
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.dll
+C:\Users\gabri\OneDrive\Desktop\OOP Projects\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.pdb
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.exe
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.deps.json
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.dll
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\bin\Debug\netcoreapp3.0\SortingAlgorithms.pdb
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.dll
+C:\Users\gabri\OneDrive\Desktop\Algorithms\SortingAlgorithms\obj\Debug\netcoreapp3.0\SortingAlgorithms.pdb
